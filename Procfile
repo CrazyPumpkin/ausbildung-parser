@@ -1,0 +1,1 @@
+web: cd src && gunicorn wsgi:application --preload --workers 1

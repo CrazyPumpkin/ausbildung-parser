@@ -1,0 +1,7 @@
+django==2.0.4
+psycopg2==2.7.4
+pytz==2018.4
+selenium==3.11.0
+djangorestframework==3.8.2
+gunicorn
+django-heroku
